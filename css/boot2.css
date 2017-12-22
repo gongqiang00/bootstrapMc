@@ -1,0 +1,139 @@
+.nav li a span{
+    width: 50px;
+    height: 45px;
+    display: inline-block;
+
+    background: url("../img/nav1.png") no-repeat center/cover;
+
+}
+.page-section{
+    position: relative;
+    padding: 64px 0;
+}
+.h2-xs{
+    color: #222;
+}
+.open-img{
+    width: 330px;
+    height: 290px;
+}
+.banner6{
+
+    width: 100%;
+    height: 600px;
+    padding: 156px 0;
+    background: url("../img/mc4.jpg") no-repeat center/cover;
+}
+.lead{
+    font-size: 18px;color: white;
+}
+.hidden-xs{
+    width: 555px;
+    height: 127px;
+
+}
+.an{
+    margin-top: 60px;
+    height: 160px;
+}
+.btnone{
+    width: 340px;
+    height: 97px;
+    background:#31AE1F;
+    border-top: 3px solid #66FF16;
+    border-bottom: 3px solid #1D8C00;
+    border-left: 3px solid #136A00;
+    border-right: 3px solid #4AD406;
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+    transition: 0.3s;
+}
+.btnone:hover{
+    margin-top: -20px;
+    width: 370px;
+    height: 130px;
+    background:#272727;
+    border-top: 5px solid #3D3D3D;
+    border-bottom: 5px solid #000000;
+    border-left: 5px solid #171717;
+    border-right: 5px solid #2F2F2F;
+    color: white;
+
+}
+.btn i{
+    font-size: 60px;
+}
+/*.btn i{*/
+    /*font-size: 30px;*/
+    /*visibility: visible;*/
+/*}*/
+.imacg{
+    width: 100%;
+    height: 600px;
+    padding: 156px 0;
+    background: url("../img/banner7.png") no-repeat center/cover;
+}
+.open-img2{
+    width: 330px;
+    height: 290px;
+}
+.kai-fang{
+    width: 100%;
+    height: 600px;
+    padding: 156px 0;
+
+}
+.bane{
+    padding: 100px 0;
+    width: 100%;
+    height: 600px;
+    background: url("../img/mcwode.png") no-repeat center/cover;
+}
+.h3{
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
+.marn{
+    margin-top: 100px;
+
+}
+.more{
+    width: 100%;
+
+    padding: 100px 0;
+}
+.btnt{
+    width: 145px;
+    height: 45px;
+    background:#31AE1F;
+    border-top: 3px solid #66FF16;
+    border-bottom: 3px solid #1D8C00;
+    border-left: 3px solid #136A00;
+    border-right: 3px solid #4AD406;
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+    transition: 0.3s;
+}
+.btnt:hover{
+    margin-top: -10px;
+    width: 160px;
+    height: 65px;
+    background:#272727;
+    border-top: 5px solid #3D3D3D;
+    border-bottom: 5px solid #000000;
+    border-left: 5px solid #171717;
+    border-right: 5px solid #2F2F2F;
+    color: white;
+}
+.bfe{display: block;margin-top: 15px}
+
+.footer{
+    padding: 36px 0 31px;
+    width: 100%;
+
+    background: black;
+}
+.pent{color: #898989;font-size: 16px;}
